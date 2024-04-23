@@ -20,14 +20,14 @@ Feel free to visit [my repositories](https://github.com/Tejaswi293?tab=repositor
 ### <📊> GitHub stats </📊>
 
 
-[![snehaa1989' GitHub stats](https://github-readme-stats.vercel.app/api?username=snehaa1989&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/snehaa1989) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaa1989&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/snehaa1989) 
+[![Tejaswi293' GitHub stats](https://github-readme-stats.vercel.app/api?username=Tejaswi293&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&hide_title=true)](https://github.com/Tejaswi293) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaswi293&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/Tejaswi293) 
 | ----------- | ------------ |
 
 ---
 
 ### <📫> How to reach me </📫>
 
-[![Github badge](https://img.shields.io/badge/Tejaswi293-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehaa1989) 
+[![Github badge](https://img.shields.io/badge/Tejaswi293-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tejaswi293) 
 
 ---
 
