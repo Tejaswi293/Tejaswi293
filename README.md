@@ -49,3 +49,4 @@ Feel free to visit [my repositories](https://github.com/Tejaswi293?tab=repositor
 Tejaswi293/Tejaswi293 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![An image of @tejaswi293's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaswi293)](https://holopin.io/@tejaswi293)
