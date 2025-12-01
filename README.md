@@ -3,7 +3,7 @@
 
 
 
-
+![alt text](https://github.com/[Tejaswi293]/[image]/blob/[main]/image.jpg?raw=true)
 
 
 
@@ -15,7 +15,7 @@ Hi There!
 
 I'm here on GitHub to:
 - Share my personal projects
-- Learn more about front-end technologies
+- Learn more about Electronics and robotic technologies
 - Contribute to third-party projects
 - Get inspiration and new ideas
 
