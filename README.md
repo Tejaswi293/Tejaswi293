@@ -1,9 +1,5 @@
 
-![Fast and Reliable Web Hosting Service for Seamless Online Presence](https://github.com/Tejaswi293/Tejaswi293/assets/141219119/c29b967a-aa92-4ad9-acb3-152ab4cd10b9)
-
-
-
-![alt text](https://github.com/[Tejaswi293]/[image]/blob/[main]/image.jpg?raw=true)
+![Fast and Reliable Web Hosting Service for Seamless Online Presence](https://github.com/[Tejaswi293]/[image]/blob/[main]/image.jpg?raw=true)
 
 
 
