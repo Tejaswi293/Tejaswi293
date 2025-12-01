@@ -1,5 +1,5 @@
 
-![Fast and Reliable Web Hosting Service for Seamless Online Presence](https://github.com/[Tejaswi293]/[image]/blob/[main]/image.jpg?raw=true)
+![Fast and Reliable Web Hosting Service for Seamless Online Presence](https://github.com/Tejaswi293/image/blob/main/HELLO%20WORLD!%20I%E2%80%99M%20TEJASWI,%20WELCOME%20TO%20MY%20GITHUB..png?raw=true))
 
 
 
